@@ -1,0 +1,3 @@
+Ocena = 9 | Ilość = 2
+Ocena = 2 | Ilość = 2
+Ocena = 6 | Ilość = 2

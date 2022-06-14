@@ -1,0 +1,4 @@
+Ocena = 4 | Ilość = 4
+Ocena = 3 | Ilość = 2
+Ocena = 2 | Ilość = 3
+Ocena = 5 | Ilość = 2
